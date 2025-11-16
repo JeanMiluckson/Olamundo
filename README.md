@@ -11,8 +11,8 @@ __A linguagem Markdown funciona aqui!__
 
 Fila | Nome | Idade | ID
 ---|---|---|---|
-1 | *Jean* | 20 |0001
-2 | *Etienne* | 19 | 0002
+1 | _Jean_ | 20 |0001
+2 | _Etienne_ | 19 | 0002
 
 [Acesse meu GitHub](https://github.com/JeanMiluckson)
 
