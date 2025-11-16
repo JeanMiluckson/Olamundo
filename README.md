@@ -5,9 +5,9 @@
 
  Essa linha foi adicionada diretamente do site github
 
- **Este repositório serve para por em pratica o aprendizado **
+ **Este repositório serve para por em pratica o aprendizado**
  
-__A linguagem Markdown funciona aqui!__
+__A linguagem Markdown funciona aqui! __
 
 Fila | Nome | Idade | ID
 ---|---|---|---|
