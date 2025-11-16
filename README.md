@@ -21,6 +21,9 @@ Fila | Nome | Idade | ID
 Vamos proseguir? | ~SIM!😄~| NÃO!😶
 ---|---|---
 
+- [X] SIM
+- [] Não
+
 
 
 
