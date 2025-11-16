@@ -5,7 +5,7 @@
 
  Essa linha foi adicionada diretamente do site github
 
- **Este repositório serve para por em pratica o que foi aprendido**
+ **Este repositório serve para por em pratica o que foi aprendido🙂**
  
 __A linguagem Markdown funciona aqui!__
 
