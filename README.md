@@ -27,6 +27,9 @@ Vamos proseguir? | ~SIM!😄~| NÃO!😶
 * Aprendemos Listas
 * Tabela
 * Imagens
+* Negrito
+* Italico
+* Titulos
   
 
 
