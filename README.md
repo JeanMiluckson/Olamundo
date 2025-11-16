@@ -10,5 +10,5 @@
 __A linguagem Markdown funciona aqui__
 
 Nome | Idade | ID
----|---|---|
+---|---|---|---|
 1 | Jean | 20 |0001
