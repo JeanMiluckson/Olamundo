@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Abrir index.html no Brave",
+            "runtimeExecutable": "/usr/bin/brave-browser",
+            "file": "/home/nuki/GitHub/Olamundo/site-exemplo/index.html"
+        }
+    ]
+}
