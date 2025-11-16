@@ -9,6 +9,6 @@
  
 __A linguagem Markdown funciona aqui__
 
-Nome | Idade | ID | Fila
+Fila | Nome | Idade | ID
 ---|---|---|---|
 1 | Jean | 20 |0001
