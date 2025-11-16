@@ -7,7 +7,7 @@
 
  **Este repositório serve para por em pratica o que foi aprendido🙂👍**
  
-# (__A linguagem Markdown funciona aqui!__)
+# (A linguagem Markdown funciona aqui!)
 
 Fila | Nome | Idade | ID
 ---|---|---|---|
