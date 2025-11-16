@@ -22,7 +22,8 @@ Vamos proseguir? | ~SIM!😄~| NÃO!😶
 ---|---|---
 
 - [X] SIM
-[] Não
+- [ ] Não
+
 
 
 
