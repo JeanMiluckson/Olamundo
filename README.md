@@ -24,6 +24,11 @@ Vamos proseguir? | ~SIM!😄~| NÃO!😶
 - [X] SIM
 - [ ] Não
 
+* Aprendemos Listas
+* Tabela
+* Imagens
+  
+
 
 
 
